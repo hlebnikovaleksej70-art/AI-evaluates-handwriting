@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cursive Handwriting Coach",
+  "description": "An AI-powered handwriting simulator where you can practice cursive letters and get instant feedback on your strokes, slant, and accuracy using Gemini Vision.",
+  "requestFramePermissions": []
+}
